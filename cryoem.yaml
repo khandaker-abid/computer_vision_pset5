@@ -1,0 +1,9 @@
+
+path: '/content/gdrive/My Drive/Abid_Khandaker_115478345_hw5/CryoEM' 
+train: images/train 
+val: images/val 
+test: images/test
+
+names:
+    0: background
+    1: particle
